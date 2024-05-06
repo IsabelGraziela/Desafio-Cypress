@@ -1,0 +1,20 @@
+{
+  "name": "desafio-vaga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "pluginsFile": "./babel.config.js",
+  "experimentalSourceRewriting": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "cypress": "^13.8.1"
+  }
+  
+}
